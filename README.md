@@ -2,7 +2,7 @@
 
 Explorative Datenanalyse (EDA) von 10.841 Android-Apps aus dem Google Play Store
 
-> 📖 **Sprachen:** **Deutsch** | [Türkçe](README_TR.md)
+> 📖 **Sprachen:** [English](README_ENG.md) | **Deutsch** | [Türkçe](README_TR.md)
 
 ## 📋 Über das Projekt
 

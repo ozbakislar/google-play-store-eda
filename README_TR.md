@@ -2,7 +2,7 @@
 
 Google Play Store'daki 10.841 Android uygulamasının keşifsel veri analizi (EDA)
 
-> 📖 **Diller:** [Deutsch](README.md) | **Türkçe**
+> 📖 **Diller:** [English](README_ENG.md) | [Deutsch](README.md) | **Türkçe**
 
 ## 📋 Proje Hakkında
 
