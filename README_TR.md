@@ -22,9 +22,13 @@ Android uygulamalarının analizi, odak noktaları:
 ## 🔍 Ana Bulgular
 
 ✅ En popüler kategoriler: Aile, Oyun, Araçlar
+
 ✅ En iyi değerlendirmeler: Eğlence, Eğitim, Sanat
+
 ✅ 2016-2018 arasında güçlü büyüme
+
 ✅ Değerlendirmeler 4,0-4,5 aralığında
+
 ✅ Ücretsiz uygulamalar pazara hakim
 
 ## 🛠️ Teknolojiler

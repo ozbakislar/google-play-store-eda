@@ -22,9 +22,13 @@ Analyse von Android-Apps mit Fokus auf:
 ## 🔍 Hauptergebnisse
 
 ✅ Beliebteste Kategorien: Familie, Spiele, Tools
+
 ✅ Beste Bewertungen: Unterhaltung, Bildung, Kunst
+
 ✅ Starkes Wachstum zwischen 2016-2018
+
 ✅ Bewertungen konzentrieren sich bei 4,0-4,5
+
 ✅ Kostenlose Apps dominieren den Markt
 
 ## 🛠️ Technologien

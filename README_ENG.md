@@ -22,9 +22,13 @@ Analysis of Android apps focusing on:
 ## 🔍 Key Findings
 
 ✅ Most popular categories: Family, Games, Tools
+
 ✅ Best ratings: Entertainment, Education, Art
+
 ✅ Strong growth between 2016-2018
+
 ✅ Ratings concentrated at 4.0-4.5
+
 ✅ Free apps dominate the market
 
 ## 🛠️ Technologies
