@@ -1,8 +1,8 @@
+# 📖 **Dil:** [English](README_ENG.md) | [Deutsch](README.md) | **Türkçe**
+
 # 📊 Google Play Store Veri Analizi
 
 Google Play Store'daki 10.841 Android uygulamasının keşifsel veri analizi (EDA)
-
-> 📖 **Diller:** [English](README_ENG.md) | [Deutsch](README.md) | **Türkçe**
 
 ## 📋 Proje Hakkında
 
@@ -21,16 +21,15 @@ Android uygulamalarının analizi, odak noktaları:
 
 ## 🔍 Ana Bulgular
 
-✅ En popüler kategoriler: Aile, Oyun, Araçlar  
-✅ En iyi değerlendirmeler: Eğlence, Eğitim, Sanat  
-✅ 2016-2018 arasında güçlü büyüme  
-✅ Değerlendirmeler 4,0-4,5 aralığında  
-✅ Ücretsiz uygulamalar pazara hakim  
+✅ En popüler kategoriler: Aile, Oyun, Araçlar
+✅ En iyi değerlendirmeler: Eğlence, Eğitim, Sanat
+✅ 2016-2018 arasında güçlü büyüme
+✅ Değerlendirmeler 4,0-4,5 aralığında
+✅ Ücretsiz uygulamalar pazara hakim
 
 ## 🛠️ Teknolojiler
 
 Python • NumPy • Pandas • Matplotlib • Seaborn • Jupyter Notebook
-
 
 ## 📧 İletişim
 

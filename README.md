@@ -1,8 +1,8 @@
+# 📖 **Sprachen:** [English](README_ENG.md) | **Deutsch** | [Türkçe](README_TR.md)
+
 # 📊 Google Play Store Datenanalyse
 
 Explorative Datenanalyse (EDA) von 10.841 Android-Apps aus dem Google Play Store
-
-> 📖 **Sprachen:** [English](README_ENG.md) | **Deutsch** | [Türkçe](README_TR.md)
 
 ## 📋 Über das Projekt
 
@@ -21,11 +21,11 @@ Analyse von Android-Apps mit Fokus auf:
 
 ## 🔍 Hauptergebnisse
 
-✅ Beliebteste Kategorien: Familie, Spiele, Tools  
-✅ Beste Bewertungen: Unterhaltung, Bildung, Kunst  
-✅ Starkes Wachstum zwischen 2016-2018  
-✅ Bewertungen konzentrieren sich bei 4,0-4,5  
-✅ Kostenlose Apps dominieren den Markt  
+✅ Beliebteste Kategorien: Familie, Spiele, Tools
+✅ Beste Bewertungen: Unterhaltung, Bildung, Kunst
+✅ Starkes Wachstum zwischen 2016-2018
+✅ Bewertungen konzentrieren sich bei 4,0-4,5
+✅ Kostenlose Apps dominieren den Markt
 
 ## 🛠️ Technologien
 
