@@ -8,10 +8,10 @@ Explorative Datenanalyse (EDA) von 10.841 Android-Apps aus dem Google Play Store
 
 Analyse von Android-Apps mit Fokus auf:
 
-- App-Kategorien und Bewertungen
-- Preisstrategien (kostenlos und kostenpflichtig)
-- Nutzerpräferenzen und Trends
-- Zeitliche Entwicklungen (2010-2018)
+* App-Kategorien und Bewertungen
+* Preisstrategien (kostenlos und kostenpflichtig)
+* Nutzerpräferenzen und Trends
+* Zeitliche Entwicklungen (2010-2018)
 
 ## 📦 Datensatz
 
@@ -33,13 +33,14 @@ Analyse von Android-Apps mit Fokus auf:
 
 ## 🛠️ Technologien
 
-Python • NumPy • Pandas • Matplotlib • Seaborn • Jupyter Notebook
+• Python • NumPy • Pandas • Matplotlib • Seaborn • Jupyter Notebook
 
 ## 📧 Kontakt
 
 **Süha Çağrı Özbakışlar**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ozbakislar)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/ozbakislar)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ozbakislar)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/ozbakislar)
+[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ozbakislar)
+[!\[GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://www.github.com/ozbakislar)
+[!\[Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge\&logo=kaggle\&logoColor=white)](https://www.kaggle.com/ozbakislar)
+[!\[Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)](https://public.tableau.com/app/profile/ozbakislar)
+
