@@ -21,15 +21,11 @@ Android uygulamalarının analizi, odak noktaları:
 
 ## 🔍 Ana Bulgular
 
-✅ En popüler kategoriler: Aile, Oyun, Araçlar
-
-✅ En iyi değerlendirmeler: Eğlence, Eğitim, Sanat
-
-✅ 2016-2018 arasında güçlü büyüme
-
-✅ Değerlendirmeler 4,0-4,5 aralığında
-
-✅ Ücretsiz uygulamalar pazara hakim
+✅ En popüler kategoriler: Aile, Oyun, Araçlar  
+✅ En iyi değerlendirmeler: Eğlence, Eğitim, Sanat  
+✅ 2016-2018 arasında güçlü büyüme  
+✅ Değerlendirmeler 4,0-4,5 aralığında  
+✅ Ücretsiz uygulamalar pazara hakim  
 
 ## 🛠️ Teknolojiler
 
@@ -39,8 +35,7 @@ Android uygulamalarının analizi, odak noktaları:
 
 **Süha Çağrı Özbakışlar**
 
-[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ozbakislar)
-[!\[GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://www.github.com/ozbakislar)
-[!\[Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge\&logo=kaggle\&logoColor=white)](https://www.kaggle.com/ozbakislar)
-[!\[Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)](https://public.tableau.com/app/profile/ozbakislar)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ozbakislar)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/ozbakislar)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ozbakislar)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/ozbakislar)
